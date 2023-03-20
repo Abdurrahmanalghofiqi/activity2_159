@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "latihan4", "latihan4\latihan4.vcxproj", "{5B0E8051-51ED-4421-96D9-89FE407BC67B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "latihan4_159", "latihan4\latihan4.vcxproj", "{5B0E8051-51ED-4421-96D9-89FE407BC67B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "latihan5_159", "latihan5\latihan5.vcxproj", "{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{5B0E8051-51ED-4421-96D9-89FE407BC67B}.Release|x64.Build.0 = Release|x64
 		{5B0E8051-51ED-4421-96D9-89FE407BC67B}.Release|x86.ActiveCfg = Release|Win32
 		{5B0E8051-51ED-4421-96D9-89FE407BC67B}.Release|x86.Build.0 = Release|Win32
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Debug|x64.ActiveCfg = Debug|x64
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Debug|x64.Build.0 = Debug|x64
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Debug|x86.Build.0 = Debug|Win32
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Release|x64.ActiveCfg = Release|x64
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Release|x64.Build.0 = Release|x64
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Release|x86.ActiveCfg = Release|Win32
+		{99157E0E-1EB0-43EE-811B-50EAA6B8FA8D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
